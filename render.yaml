@@ -18,8 +18,8 @@ services:
       - key: DB_PORT
         value: 3306
       - key: DB_DATABASE
-        value: your_db_name
+        value: mydb
       - key: DB_USERNAME
-        value: your_db_user
+        value: root
       - key: DB_PASSWORD
         sync: false
